@@ -1,0 +1,276 @@
+﻿#head {
+    border: none;
+}
+
+    #head:hover {
+        border: 1px solid #dedddd;
+        background-color: #dedddd;
+        padding: 0px 0px 0px 0px;
+        text-decoration: none;
+    }
+
+#anh1 img {
+    width: 75px;
+    height: 25px;
+}
+
+#video1 {
+    width: 80%;
+    height: 50%;
+    margin: 45px 105px;
+}
+
+#video2 {
+    width: 100%;
+    height: 100%;
+}
+
+.idol {
+    margin: 19px 0 0 239px;
+}
+
+.idol2 {
+    box-shadow: 0 0 5px grey;
+    margin: 0 0 0 0;
+    padding: 18px 0 0 11px;
+}
+
+.idol3 {
+    margin: 150px 0 0 433px;
+}
+
+.idol4 {
+    margin: 7px 0 0 318px;
+    margin-bottom: 50px;
+}
+
+.idol5 {
+    margin: 4px 0px 23px 211px;
+}
+
+#find {
+    border: 1px solid black;
+    padding: 6px 0 6px 0;
+    margin: -3px 0px 17px 0px;
+}
+
+input[type=text] {
+    border: none;
+    outline: none;
+}
+
+.font {
+    font-size: 50px;
+}
+
+.font1 {
+    font-size: 20px;
+}
+
+.font2 {
+    font-size: 30px;
+}
+
+.font3 {
+    font-size: 16px;
+}
+
+.nut1 {
+    margin: -3px 0px 15px -45px;
+    padding: 7px 0px 0px 12px;
+    background-color: #f4f4f6;
+    color: black;
+    border-radius: 4px;
+}
+
+.nut2 {
+    margin: -3px 0px 15px 14px;
+    padding: 9px 0px 0px 25px;
+    background-color: #7d2ae7;
+    color: white;
+    border-radius: 4px;
+}
+
+.nut3 {
+    margin: 0px 0px 0px 529px;
+    padding: 10px 20px;
+    background-color: #7d2ae7;
+    color: white;
+    border-radius: 4px;
+}
+
+.nut4 {
+    padding: 10px 20px;
+    background-color: #7d2ae7;
+    color: white;
+    border-radius: 4px;
+}
+
+.nut5 {
+    margin: 49px 533px;
+    padding: 9px 19px;
+    background-color: #f4f4f6;
+    color: black;
+    border-radius: 4px;
+}
+
+.nut6 {
+    margin: 0px 156px 605px 557px;
+    padding: 5px 20px 9px 16px;
+    background-color: #f4f4f6;
+    color: black;
+    border-radius: 4px;
+}
+.nut7 {
+    padding: 10px 77px;
+    background-color: #7d2ae7;
+    color: white;
+    border-radius: 4px;
+}
+.nut8 {
+    padding: 10px 17px;
+    background-color: #7d2ae7;
+    color: white;
+    border-radius: 4px;
+}
+.lecanh1 {
+    margin: 106px 0 0 0;
+    padding: 0px 198px 0px 0;
+}
+
+.canhle2 {
+    margin: 130px 0px;
+    padding: 0px 98px;
+}
+
+.canhle3 {
+    margin: 37px 363px;
+    padding: 0 0;
+    text-align: center;
+}
+
+.canhle4 {
+    margin: 20px 0px 48px -19px;
+    padding: 0px 350px;
+    text-align: center;
+}
+
+.canhle5 {
+    margin: 65px -15px;
+    padding: 36px 131px;
+}
+.canhle6 {
+    margin: 77px 0px 34px 311px;
+    padding: 0 0;
+}
+.chinhsua18 {
+    margin: 147px 20px;
+}
+
+.chinhsua19 {
+    margin: 153px 0 0 0;
+}
+
+.chinhsua21 {
+    margin: 26px 0 0 0;
+    font-size: 0.9rem;
+}
+.chinhsua1 {
+    font-size: 32px;
+    margin: 45px 0 7px 274px;
+    padding: 0 0;
+}
+.chinhsua2 {
+    margin: 0px 0 0 331px;
+}
+.chinhsua3{
+    list-style: none;
+}
+.chinhsua4 {
+    margin: 52px 0 -100px 0;
+}
+.chinhsua5{
+    font-size: 20px;
+    margin-top: 6px;
+}
+.chinhsua6 {
+    padding: 0 0 0 19px;
+}
+.chinhsua7 {
+    font-size: 26px;
+    margin: 4px 0;
+}
+.chinhsua8{
+    margin: 0 0 0 0;
+}
+.chinhsua9 {
+    margin: -107px 69px 0 69px;
+}
+.class1 {
+    Margin: 0 auto;
+    text-align: left;
+}
+.anh1 {
+    max-height: 85%;
+    max-width: 85%;
+}
+.anh2 {
+    max-height: 100%;
+    max-width: 100%;
+    margin-bottom: 100px;
+}
+.vungchua {
+    margin: 50px 150px;
+    text-align: center;
+}
+.vao {
+    border-radius: 4px;
+}
+.chinhduoi {
+    margin: 23px 0 120px 84px;
+    padding: 0 0 0 0;
+}
+.class2 {
+    background-color: #fff;
+    color: #4040b8;
+    margin: 44px 15px 0 113px;
+}
+.class3 {
+    background-color: #fff;
+    color: #4cc3e0;
+    margin: 0 15px 0 0;
+}
+.class4 {
+    background-color: #fff;
+    color: #b52626;
+    margin: 0 15px 0 0;
+}
+.class5 {
+    background-color: #fff;
+    color: #e08c38;
+}
+.class6 {
+    font-size: 23px;
+    margin: 0px 0px 0 47px;
+    padding: 0px 0px 0px 81px;
+}
+.class7{
+    width: 100%;
+}
+.class8 {
+    margin: 30px 0 0 0;
+}
+.class9 {
+    width: 70%;
+    height: 70%;
+    margin: 60px 0 0 132px;
+}
+.file{
+    color: black;
+}
+.file:hover, .file:focus{
+    text-decoration: none;
+    color: black;
+}
+
+
